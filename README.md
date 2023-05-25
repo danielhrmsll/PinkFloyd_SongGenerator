@@ -1,6 +1,7 @@
 # PinkFloyd_SongGenerator
 ## Introducción
 El objetivo del proyecto consiste en generar texto mediante una red neuronal recurrente que se elimante con un dataset de canciones de Pink Floyd, para así, generar una nueva.
+![Pink Floyd](https://www.pinkfloyd.com/2023splash1/img/pinkfloyd-2023home-exhibition.png)
 ## Dataset
 El dataset fue obtenido en Kaggle.com, y cuenta con 164 canciones, sin embargo, algunas de estas no tienen letra.
 ## Modelo

@@ -42,7 +42,8 @@ Epoch 10/10
 2579/2579 [==============================] - 542s 209ms/step - loss: 1.2579
 
 ```
-## Predicciones
+## Conclusiones y predicciones
+El modelo puede realizar predicciones, sin embargo, estas pueden no tener mucha coherencia debido a que la discografía de Pink Floyd no es tan grande para tener los suficientes datos para un buen entrenamiento.
 ```python
 print(complete_text("Money is ", n_chars=300, temperature=0.4))
 ```
